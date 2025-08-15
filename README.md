@@ -11,4 +11,4 @@
 ![Week 31](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2031/Icons%20&%20Images/Wages%20across%20Europe.png?raw=true)
 
 ## MakeoverMonday Week 32 2025 - Corruption Perception Index
-![Week 32](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2032/Icons%20&%20Images/Corruption%20Perception%20Index.png?raw=true)
+![Week 32](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2032/Icons%20&%20Images/Coruption%20Perception.png?raw=true)

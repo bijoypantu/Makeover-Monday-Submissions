@@ -13,6 +13,6 @@
 ## MakeoverMonday Week 32 2025 - Corruption Perception Index
 ![Week 32](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2032/Icons%20&%20Images/Coruption%20Perception.png?raw=true)
 
-
 ## MakeoverMonday Week 33 2025 - Access to Electricity
 ![Week 33](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2033/dashboard%20preview.png?raw=true)
+

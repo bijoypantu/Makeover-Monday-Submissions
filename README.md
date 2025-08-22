@@ -17,4 +17,4 @@
 ![Week 33](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2033/dashboard%20preview.png?raw=true)
 
 ## MakeoverMonday Week 33 2025 - [UK Unemployment Rate](https://public.tableau.com/app/profile/bijoy.pantu/viz/UnemploymentRateMakeoverMondayWeek342025/Dashboard)
-![Week 34](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2034/Unemployment%20Rate.png?raw=true)
+![Week 34](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/Week%2034/Icons%20%26%20Images/Unemployment%20Rate.png)

@@ -18,3 +18,6 @@
 
 ## MakeoverMonday Week 34 2025 - [UK Unemployment Rate](https://public.tableau.com/app/profile/bijoy.pantu/viz/UnemploymentRateMakeoverMondayWeek342025/Dashboard)
 ![Week 34](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2034/Icons%20%26%20Images/Unemployment%20Rate.png)
+
+## MakeoverMonday Week 35 2025 - [Global Meat Production](https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalMeatProductionMakeoverMondayWeek352025/Meatproduction)
+![Week 35](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2035/icons%20%26%20Images/preview.png)

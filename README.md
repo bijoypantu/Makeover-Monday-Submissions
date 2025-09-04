@@ -1,15 +1,19 @@
-# MakeoverMonday Dashboards Submissions
+# MakeoverMonday Projects Submission
 
 ## 📑 Table of Contents
 - [2025](#2025)
-  - [Week 18 – Trump's Job Approval Rating](#makeovermonday-week-18-2025)
-  - [Week 19 – Asian Restaurants in the US](#makeovermonday-week-19-2025)
-  - [Week 30 – London Underground Line Monthly Temperature](#makeovermonday-week-30-2025)
-  - [Week 31 – Wages across Europe](#makeovermonday-week-31-2025)
-  - [Week 32 – Corruption Perception Index](#makeovermonday-week-32-2025)
-  - [Week 33 – Access to Electricity](#makeovermonday-week-33-2025)
-  - [Week 34 – UK Unemployment Rate](#makeovermonday-week-34-2025)
-  - [Week 35 – Global Meat Production](#makeovermonday-week-35-2025)
+  - [Week 18 – Trump's Job Approval Rating](#makeovermonday-week-18-2025---trumps-job-approval-rating)
+  - [Week 19 – Asian Restaurants in the US](#makeovermonday-week-19-2025---asian-restaurants-in-the-us)
+  - [Week 30 – London Underground Line Monthly Temperature](#makeovermonday-week-30-2025---london-underground-line-monthly-temperature)
+  - [Week 31 – Wages across Europe](#makeovermonday-week-31-2025---wages-across-europe)
+  - [Week 32 – Corruption Perception Index](#makeovermonday-week-32-2025---corruption-perception-index)
+  - [Week 33 – Access to Electricity](#makeovermonday-week-33-2025---access-to-electricity)
+  - [Week 34 – UK Unemployment Rate](#makeovermonday-week-34-2025---uk-unemployment-rate)
+  - [Week 35 – Global Meat Production](#makeovermonday-week-35-2025---global-meat-production)
+
+---
+
+## 2025
 
 ## MakeoverMonday Week 18 2025 - [Trump's Job Approval Rating](https://public.tableau.com/app/profile/bijoy.pantu/viz/TrumpApprovalRatingsMakeoverMondayW182025/Dashboard1)
 ![Week 18](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2018/Icons%20%26%20Images/Trump%20Approval%20Ratings.png)

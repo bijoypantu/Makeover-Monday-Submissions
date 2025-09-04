@@ -1,7 +1,7 @@
 # MakeoverMonday Projects Submission
 <p align="center">
   <a href="https://www.makeovermonday.co.uk/">
-    <img src="https://github.com/makeovermonday/MakeoverMonday/raw/main/logo.png" alt="MakeoverMonday Logo" width="250"/>
+    <img src="https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/logo.png" alt="MakeoverMonday Logo" width="250"/>
   </a>
 </p>
 

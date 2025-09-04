@@ -18,8 +18,8 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 ---
 
 ## Getting started
-- Click a linked dashboard title or the preview image to open the **interactive** version on Tableau Public.  
 - Use the **Table of Contents** below to jump to a specific week quickly.  
+- Click the linked dashboard title to open the **interactive** version on Tableau Public.  
 - To run analyses locally, download the workbook/data from each week's folder.
 
 ---

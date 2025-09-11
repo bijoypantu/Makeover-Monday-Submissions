@@ -34,6 +34,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
   - [Week 33 – Access to Electricity](#week-33)
   - [Week 34 – UK Unemployment Rate](#week-34)
   - [Week 35 – Global Meat Production](#week-35)
+  - [Week 36 – Drug Harms in the UK](#week-36)
 
 ---
 
@@ -92,6 +93,13 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 <h3 id="week-35">► MakeoverMonday Week 35 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalMeatProductionMakeoverMondayWeek352025/Meatproduction">Global Meat Production</a></h3>
 
 ![Week 35](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2035/icons%20%26%20Images/preview.png?raw=true)
+
+---
+
+<!-- Week 36 -->
+<h3 id="week-36">► MakeoverMonday Week 36 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/DrugHarmsintheUKMakeoverMondayWeek362025/Dashboard1">Drug Harms in the UK</a></h3>
+
+![Week 36](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2036/Icons%20%26%20Images/Drug%20harm.png)
 
 ---
 

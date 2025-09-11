@@ -1,0 +1,341 @@
+group,category,criteria,drug type,value
+Harm to users,Mortality,Drug-specific mortality,Alcohol,2.6
+Harm to users,Mortality,Drug-specific mortality,Heroin,5.1
+Harm to users,Mortality,Drug-specific mortality,Crack,1.3
+Harm to users,Mortality,Drug-specific mortality,Methylamphet,1.3
+Harm to users,Mortality,Drug-specific mortality,Cocaine,1
+Harm to users,Mortality,Drug-specific mortality,Tobacco,0
+Harm to users,Mortality,Drug-specific mortality,Amphetamine,1
+Harm to users,Mortality,Drug-specific mortality,Cannabis,0
+Harm to users,Mortality,Drug-specific mortality,GHB,3.1
+Harm to users,Mortality,Drug-specific mortality,Benzodiazepines,0.8
+Harm to users,Mortality,Drug-specific mortality,Ketamine,0.3
+Harm to users,Mortality,Drug-specific mortality,Methadone,4.1
+Harm to users,Mortality,Drug-specific mortality,Mephedrone,0.5
+Harm to users,Mortality,Drug-specific mortality,Butane,3.6
+Harm to users,Mortality,Drug-specific mortality,Khat,0
+Harm to users,Mortality,Drug-specific mortality,Anabolic Steroids,0
+Harm to users,Mortality,Drug-specific mortality,Ecstasy,0.8
+Harm to users,Mortality,Drug-specific mortality,LSD,0
+Harm to users,Mortality,Drug-specific mortality,Buprenorphine,0.8
+Harm to users,Mortality,Drug-specific mortality,Mushrooms,0
+Harm to users,Mortality,Drug-related mortality,Alcohol,3.8
+Harm to users,Mortality,Drug-related mortality,Heroin,6.4
+Harm to users,Mortality,Drug-related mortality,Crack,3.8
+Harm to users,Mortality,Drug-related mortality,Methylamphet,3.8
+Harm to users,Mortality,Drug-related mortality,Cocaine,2.2
+Harm to users,Mortality,Drug-related mortality,Tobacco,5.7
+Harm to users,Mortality,Drug-related mortality,Amphetamine,2.6
+Harm to users,Mortality,Drug-related mortality,Cannabis,1.3
+Harm to users,Mortality,Drug-related mortality,GHB,2.6
+Harm to users,Mortality,Drug-related mortality,Benzodiazepines,1
+Harm to users,Mortality,Drug-related mortality,Ketamine,1
+Harm to users,Mortality,Drug-related mortality,Methadone,0.6
+Harm to users,Mortality,Drug-related mortality,Mephedrone,0.6
+Harm to users,Mortality,Drug-related mortality,Butane,0.6
+Harm to users,Mortality,Drug-related mortality,Khat,1.3
+Harm to users,Mortality,Drug-related mortality,Anabolic Steroids,1.9
+Harm to users,Mortality,Drug-related mortality,Ecstasy,0.6
+Harm to users,Mortality,Drug-related mortality,LSD,0
+Harm to users,Mortality,Drug-related mortality,Buprenorphine,0.3
+Harm to users,Mortality,Drug-related mortality,Mushrooms,0.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Alcohol,3.3
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Heroin,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Crack,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Methylamphet,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Cocaine,1.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Tobacco,4.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Amphetamine,1.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Cannabis,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,GHB,1.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Benzodiazepines,0.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Ketamine,1.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Methadone,0.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Mephedrone,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Butane,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Khat,1.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Anabolic Steroids,1.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Ecstasy,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,LSD,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Buprenorphine,0.2
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific damage,Mushrooms,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Alcohol,3.3
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Heroin,4.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Crack,3.3
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Methylamphet,2.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Cocaine,2.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Tobacco,0.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Amphetamine,2.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Cannabis,1.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,GHB,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Benzodiazepines,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Ketamine,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Methadone,1.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Mephedrone,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Butane,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Khat,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Anabolic Steroids,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Ecstasy,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,LSD,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Buprenorphine,0.8
+Harm to users,"Health damage, mental impairment and dependence",Drug-related damage,Mushrooms,0
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Alcohol,1.7
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Heroin,4.6
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Crack,5.7
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Methylamphet,4.3
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Cocaine,2.9
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Tobacco,5.5
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Amphetamine,2.3
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Cannabis,1.7
+Harm to users,"Health damage, mental impairment and dependence",Dependence,GHB,1.1
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Benzodiazepines,2.9
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Ketamine,1.7
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Methadone,2.3
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Mephedrone,2.3
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Butane,0.6
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Khat,1.1
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Anabolic Steroids,1.1
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Ecstasy,1.1
+Harm to users,"Health damage, mental impairment and dependence",Dependence,LSD,0
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Buprenorphine,1.7
+Harm to users,"Health damage, mental impairment and dependence",Dependence,Mushrooms,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Alcohol,3.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Heroin,1.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Crack,5.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Methylamphet,4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Cocaine,3.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Tobacco,0
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Amphetamine,3.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Cannabis,1.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,GHB,4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Benzodiazepines,3.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Ketamine,4.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Methadone,1.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Mephedrone,2.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Butane,3.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Khat,0.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Anabolic Steroids,0.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Ecstasy,2.3
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,LSD,5.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Buprenorphine,0.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-specific impairment of mental functioning,Mushrooms,4.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Alcohol,3.4
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Heroin,2.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Crack,5.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Methylamphet,5.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Cocaine,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Tobacco,0.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Amphetamine,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Cannabis,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,GHB,1.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Benzodiazepines,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Ketamine,1.7
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Methadone,0.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Mephedrone,2
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Butane,0.6
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Khat,0.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Anabolic Steroids,0.9
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Ecstasy,1.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,LSD,1.1
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Buprenorphine,0.3
+Harm to users,"Health damage, mental impairment and dependence",Drug-related impairment of mental functioning,Mushrooms,0.6
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Alcohol,1.3
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Heroin,4.5
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Crack,4.5
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Methylamphet,3.6
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Cocaine,1.6
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Tobacco,0.4
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Amphetamine,1.3
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Cannabis,1.1
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,GHB,0.9
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Benzodiazepines,0.9
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Ketamine,0.9
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Methadone,0.4
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Mephedrone,0.7
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Butane,0.4
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Khat,0.7
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Anabolic Steroids,0.2
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Ecstasy,0.2
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,LSD,0
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Buprenorphine,0.2
+Harm to users,Loss of tangibles and relationships,Loss of tangibles,Mushrooms,0
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Alcohol,2.7
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Heroin,3.6
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Crack,4.5
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Methylamphet,4
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Cocaine,2.7
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Tobacco,0.4
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Amphetamine,2.5
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Cannabis,1.3
+Harm to users,Loss of tangibles and relationships,Loss of relationships,GHB,1.3
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Benzodiazepines,0.7
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Ketamine,1.1
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Methadone,0.4
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Mephedrone,1.3
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Butane,0.7
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Khat,1.8
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Anabolic Steroids,1.3
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Ecstasy,0.7
+Harm to users,Loss of tangibles and relationships,Loss of relationships,LSD,0
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Buprenorphine,0.2
+Harm to users,Loss of tangibles and relationships,Loss of relationships,Mushrooms,0
+Harm to others,Crime and injury,Injury,Alcohol,11.5
+Harm to others,Crime and injury,Injury,Heroin,1.1
+Harm to others,Crime and injury,Injury,Crack,1.7
+Harm to others,Crime and injury,Injury,Methylamphet,0.1
+Harm to others,Crime and injury,Injury,Cocaine,0.6
+Harm to others,Crime and injury,Injury,Tobacco,1.1
+Harm to others,Crime and injury,Injury,Amphetamine,0.6
+Harm to others,Crime and injury,Injury,Cannabis,1.1
+Harm to others,Crime and injury,Injury,GHB,0.2
+Harm to others,Crime and injury,Injury,Benzodiazepines,0.6
+Harm to others,Crime and injury,Injury,Ketamine,0.1
+Harm to others,Crime and injury,Injury,Methadone,0.2
+Harm to others,Crime and injury,Injury,Mephedrone,0
+Harm to others,Crime and injury,Injury,Butane,0
+Harm to others,Crime and injury,Injury,Khat,0.1
+Harm to others,Crime and injury,Injury,Anabolic Steroids,0.1
+Harm to others,Crime and injury,Injury,Ecstasy,0.1
+Harm to others,Crime and injury,Injury,LSD,0
+Harm to others,Crime and injury,Injury,Buprenorphine,0
+Harm to others,Crime and injury,Injury,Mushrooms,0
+Harm to others,Crime and injury,Crime,Alcohol,5.1
+Harm to others,Crime and injury,Crime,Heroin,10.2
+Harm to others,Crime and injury,Crime,Crack,8.2
+Harm to others,Crime and injury,Crime,Methylamphet,0.5
+Harm to others,Crime and injury,Crime,Cocaine,1
+Harm to others,Crime and injury,Crime,Tobacco,1
+Harm to others,Crime and injury,Crime,Amphetamine,1.5
+Harm to others,Crime and injury,Crime,Cannabis,2
+Harm to others,Crime and injury,Crime,GHB,0.5
+Harm to others,Crime and injury,Crime,Benzodiazepines,1
+Harm to others,Crime and injury,Crime,Ketamine,1
+Harm to others,Crime and injury,Crime,Methadone,1
+Harm to others,Crime and injury,Crime,Mephedrone,0.5
+Harm to others,Crime and injury,Crime,Butane,0
+Harm to others,Crime and injury,Crime,Khat,0
+Harm to others,Crime and injury,Crime,Anabolic Steroids,0.5
+Harm to others,Crime and injury,Crime,Ecstasy,0
+Harm to others,Crime and injury,Crime,LSD,0
+Harm to others,Crime and injury,Crime,Buprenorphine,1
+Harm to others,Crime and injury,Crime,Mushrooms,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Alcohol,3.8
+Harm to others,"Community, economic and environmental costs",Environmental damage,Heroin,0.4
+Harm to others,"Community, economic and environmental costs",Environmental damage,Crack,0.2
+Harm to others,"Community, economic and environmental costs",Environmental damage,Methylamphet,0.2
+Harm to others,"Community, economic and environmental costs",Environmental damage,Cocaine,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Tobacco,0.4
+Harm to others,"Community, economic and environmental costs",Environmental damage,Amphetamine,0.2
+Harm to others,"Community, economic and environmental costs",Environmental damage,Cannabis,0.4
+Harm to others,"Community, economic and environmental costs",Environmental damage,GHB,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Benzodiazepines,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Ketamine,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Methadone,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Mephedrone,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Butane,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Khat,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Anabolic Steroids,0.2
+Harm to others,"Community, economic and environmental costs",Environmental damage,Ecstasy,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,LSD,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Buprenorphine,0
+Harm to others,"Community, economic and environmental costs",Environmental damage,Mushrooms,0
+Harm to others,Family adversities,Family adversities,Alcohol,8.9
+Harm to others,Family adversities,Family adversities,Heroin,1.8
+Harm to others,Family adversities,Family adversities,Crack,0.9
+Harm to others,Family adversities,Family adversities,Methylamphet,0.2
+Harm to others,Family adversities,Family adversities,Cocaine,0.9
+Harm to others,Family adversities,Family adversities,Tobacco,0.2
+Harm to others,Family adversities,Family adversities,Amphetamine,0.4
+Harm to others,Family adversities,Family adversities,Cannabis,1.3
+Harm to others,Family adversities,Family adversities,GHB,0.2
+Harm to others,Family adversities,Family adversities,Benzodiazepines,0.4
+Harm to others,Family adversities,Family adversities,Ketamine,0.3
+Harm to others,Family adversities,Family adversities,Methadone,0.4
+Harm to others,Family adversities,Family adversities,Mephedrone,0.1
+Harm to others,Family adversities,Family adversities,Butane,0.4
+Harm to others,Family adversities,Family adversities,Khat,0.2
+Harm to others,Family adversities,Family adversities,Anabolic Steroids,0.1
+Harm to others,Family adversities,Family adversities,Ecstasy,0.1
+Harm to others,Family adversities,Family adversities,LSD,0.1
+Harm to others,Family adversities,Family adversities,Buprenorphine,0.1
+Harm to others,Family adversities,Family adversities,Mushrooms,0
+Harm to others,"Community, economic and environmental costs",International damage,Alcohol,0.8
+Harm to others,"Community, economic and environmental costs",International damage,Heroin,3.4
+Harm to others,"Community, economic and environmental costs",International damage,Crack,3.8
+Harm to others,"Community, economic and environmental costs",International damage,Methylamphet,0
+Harm to others,"Community, economic and environmental costs",International damage,Cocaine,3.8
+Harm to others,"Community, economic and environmental costs",International damage,Tobacco,1.3
+Harm to others,"Community, economic and environmental costs",International damage,Amphetamine,0.2
+Harm to others,"Community, economic and environmental costs",International damage,Cannabis,0.6
+Harm to others,"Community, economic and environmental costs",International damage,GHB,0
+Harm to others,"Community, economic and environmental costs",International damage,Benzodiazepines,0.2
+Harm to others,"Community, economic and environmental costs",International damage,Ketamine,0.2
+Harm to others,"Community, economic and environmental costs",International damage,Methadone,0
+Harm to others,"Community, economic and environmental costs",International damage,Mephedrone,0.2
+Harm to others,"Community, economic and environmental costs",International damage,Butane,0
+Harm to others,"Community, economic and environmental costs",International damage,Khat,0
+Harm to others,"Community, economic and environmental costs",International damage,Anabolic Steroids,0.2
+Harm to others,"Community, economic and environmental costs",International damage,Ecstasy,0.2
+Harm to others,"Community, economic and environmental costs",International damage,LSD,0
+Harm to others,"Community, economic and environmental costs",International damage,Buprenorphine,0
+Harm to others,"Community, economic and environmental costs",International damage,Mushrooms,0
+Harm to others,"Community, economic and environmental costs",Economic cost,Alcohol,12.8
+Harm to others,"Community, economic and environmental costs",Economic cost,Heroin,3.8
+Harm to others,"Community, economic and environmental costs",Economic cost,Crack,1.9
+Harm to others,"Community, economic and environmental costs",Economic cost,Methylamphet,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Cocaine,1.3
+Harm to others,"Community, economic and environmental costs",Economic cost,Tobacco,5.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Amphetamine,1.3
+Harm to others,"Community, economic and environmental costs",Economic cost,Cannabis,2.6
+Harm to others,"Community, economic and environmental costs",Economic cost,GHB,0.3
+Harm to others,"Community, economic and environmental costs",Economic cost,Benzodiazepines,0.4
+Harm to others,"Community, economic and environmental costs",Economic cost,Ketamine,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Methadone,0.6
+Harm to others,"Community, economic and environmental costs",Economic cost,Mephedrone,0
+Harm to others,"Community, economic and environmental costs",Economic cost,Butane,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Khat,0.3
+Harm to others,"Community, economic and environmental costs",Economic cost,Anabolic Steroids,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Ecstasy,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,LSD,0
+Harm to others,"Community, economic and environmental costs",Economic cost,Buprenorphine,0.1
+Harm to others,"Community, economic and environmental costs",Economic cost,Mushrooms,0
+Harm to others,"Community, economic and environmental costs",Community,Alcohol,3.2
+Harm to others,"Community, economic and environmental costs",Community,Heroin,0.8
+Harm to others,"Community, economic and environmental costs",Community,Crack,0.8
+Harm to others,"Community, economic and environmental costs",Community,Methylamphet,0
+Harm to others,"Community, economic and environmental costs",Community,Cocaine,0.2
+Harm to others,"Community, economic and environmental costs",Community,Tobacco,0
+Harm to others,"Community, economic and environmental costs",Community,Amphetamine,0.2
+Harm to others,"Community, economic and environmental costs",Community,Cannabis,0.3
+Harm to others,"Community, economic and environmental costs",Community,GHB,0
+Harm to others,"Community, economic and environmental costs",Community,Benzodiazepines,0.2
+Harm to others,"Community, economic and environmental costs",Community,Ketamine,0
+Harm to others,"Community, economic and environmental costs",Community,Methadone,0.2
+Harm to others,"Community, economic and environmental costs",Community,Mephedrone,0
+Harm to others,"Community, economic and environmental costs",Community,Butane,0.2
+Harm to others,"Community, economic and environmental costs",Community,Khat,0.1
+Harm to others,"Community, economic and environmental costs",Community,Anabolic Steroids,0
+Harm to others,"Community, economic and environmental costs",Community,Ecstasy,0
+Harm to others,"Community, economic and environmental costs",Community,LSD,0
+Harm to others,"Community, economic and environmental costs",Community,Buprenorphine,0
+Harm to others,"Community, economic and environmental costs",Community,Mushrooms,0
+Total,Total weighted score,Total weighted score,Alcohol,71.9
+Total,Total weighted score,Total weighted score,Heroin,55.2
+Total,Total weighted score,Total weighted score,Crack,54.1
+Total,Total weighted score,Total weighted score,Methylamphet,32.8
+Total,Total weighted score,Total weighted score,Cocaine,27.3
+Total,Total weighted score,Total weighted score,Tobacco,26.4
+Total,Total weighted score,Total weighted score,Amphetamine,23.2
+Total,Total weighted score,Total weighted score,Cannabis,20
+Total,Total weighted score,Total weighted score,GHB,18.7
+Total,Total weighted score,Total weighted score,Benzodiazepines,15.4
+Total,Total weighted score,Total weighted score,Ketamine,15.1
+Total,Total weighted score,Total weighted score,Methadone,14
+Total,Total weighted score,Total weighted score,Mephedrone,12.8
+Total,Total weighted score,Total weighted score,Butane,10.8
+Total,Total weighted score,Total weighted score,Khat,9
+Total,Total weighted score,Total weighted score,Anabolic Steroids,9.6
+Total,Total weighted score,Total weighted score,Ecstasy,9.1
+Total,Total weighted score,Total weighted score,LSD,7
+Total,Total weighted score,Total weighted score,Buprenorphine,6.7
+Total,Total weighted score,Total weighted score,Mushrooms,5.55

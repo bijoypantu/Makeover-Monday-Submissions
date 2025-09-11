@@ -92,7 +92,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 <!-- Week 35 -->
 <h3 id="week-35">► MakeoverMonday Week 35 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalMeatProductionMakeoverMondayWeek352025/Meatproduction">Global Meat Production</a></h3>
 
-![Week 35](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2035/icons%20%26%20Images/preview.png?raw=true)
+![Week 35](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2035/icons%20%26%20Images/Meatproduction.png)
 
 ---
 

@@ -35,6 +35,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
   - [Week 34 – UK Unemployment Rate](#week-34)
   - [Week 35 – Global Meat Production](#week-35)
   - [Week 36 – Drug Harms in the UK](#week-36)
+  - [Week 37 – Global AI Job Trends](#week-37)
 
 ---
 
@@ -100,6 +101,13 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 <h3 id="week-36">► MakeoverMonday Week 36 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/DrugHarmsintheUKMakeoverMondayWeek362025/Dashboard1">Drug Harms in the UK</a></h3>
 
 ![Week 36](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2036/Icons%20%26%20Images/Drug%20harm.png)
+
+---
+
+<!-- Week 37 -->
+<h3 id="week-37">► MakeoverMonday Week 37 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalAIJobTrendsMakeoverMondayWeek372025/GlobalAIJobTrend">Global AI Job Trends</a></h3>
+
+![Week 36](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2037/Icons%20%26%20Images/Global%20AI%20Job%20Trend.png)
 
 ---
 

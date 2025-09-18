@@ -36,7 +36,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
   - [Week 35 – Global Meat Production](#week-35)
   - [Week 36 – Drug Harms in the UK](#week-36)
   - [Week 37 – Global AI Job Trends](#week-37)
-  - [Week 38 – Global AI Job Trends](#week-38)
+  - [Week 38 – Which kidult hobbies do Britons think are for children?](#week-38)
 
 ---
 
@@ -113,7 +113,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 ---
 
 <!-- Week 38 -->
-<h3 id="week-38">► MakeoverMonday Week 38 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/WhichkidulthobbiesdoBritonsthinkareforchildrenMakeoverMondayWeek382025/kidulthobbies">Kidult Hobbies</a></h3>
+<h3 id="week-38">► MakeoverMonday Week 38 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/WhichkidulthobbiesdoBritonsthinkareforchildrenMakeoverMondayWeek382025/kidulthobbies">Which kidult hobbies do Britons think are for children?</a></h3>
 
 ![Week 38](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2038/Icons%20%26%20Images/kidult%20hobbies.png)
 

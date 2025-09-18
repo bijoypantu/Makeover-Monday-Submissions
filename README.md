@@ -108,14 +108,14 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 <!-- Week 37 -->
 <h3 id="week-37">► MakeoverMonday Week 37 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalAIJobTrendsMakeoverMondayWeek372025/GlobalAIJobTrend">Global AI Job Trends</a></h3>
 
-![Week 36](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2037/Icons%20%26%20Images/Global%20AI%20Job%20Trend.png)
+![Week 37](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2037/Icons%20%26%20Images/Global%20AI%20Job%20Trend.png)
 
 ---
 
 <!-- Week 38 -->
-<h3 id="week-38">► MakeoverMonday Week 38 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/GlobalAIJobTrendsMakeoverMondayWeek372025/GlobalAIJobTrend">Global AI Job Trends</a></h3>
+<h3 id="week-38">► MakeoverMonday Week 38 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/WhichkidulthobbiesdoBritonsthinkareforchildrenMakeoverMondayWeek382025/kidulthobbies">Kidult Hobbies</a></h3>
 
-![Week 36](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2037/Icons%20%26%20Images/Global%20AI%20Job%20Trend.png)
+![Week 38]()
 
 ---
 

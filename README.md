@@ -115,7 +115,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 <!-- Week 38 -->
 <h3 id="week-38">► MakeoverMonday Week 38 2025 - <a href="https://public.tableau.com/app/profile/bijoy.pantu/viz/WhichkidulthobbiesdoBritonsthinkareforchildrenMakeoverMondayWeek382025/kidulthobbies">Kidult Hobbies</a></h3>
 
-![Week 38]()
+![Week 38](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2038/Icons%20%26%20Images/kidult%20hobbies.png)
 
 ---
 

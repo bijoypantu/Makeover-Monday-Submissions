@@ -137,7 +137,7 @@ This repository contains my submissions for the **MakeoverMonday (MoM)** project
 
 📂 [View Folder](https://github.com/bijoypantu/Makeover-Monday-Submissions/tree/main/2025/Week%2038)
 
-![Week 38](https://github.com/bijoypantu/Makeover-Monday-Submissions/blob/main/2025/Week%2038/Icons%20%26%20Images/kidult%20hobbies.png)
+![Week 38]()
 
 ---
 
